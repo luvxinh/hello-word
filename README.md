@@ -1,2 +1,4 @@
 # hello-word
-This is the begin of it all
+Hello
+
+This is the first step to learn coding :D
